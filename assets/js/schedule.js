@@ -1,4 +1,4 @@
-const { createLoremIpsum, dateConverter } = require("./helpers");
+const { createLoremIpsum, dateConverter } = require("./helper");
 require("bootstrap");
 const createEl = require("./domMethods");
 
