@@ -1,0 +1,28 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evalecillos/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evalecillos/food-festival/issues"
+  },
+  "homepage": "https://github.com/evalecillos/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
